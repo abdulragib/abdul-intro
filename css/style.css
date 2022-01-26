@@ -1,3 +1,4 @@
+
 .div1{
     padding-top: 100px;
     
@@ -6,3 +7,13 @@
 .div2{
     margin-right:5px;
 }
+
+.div3{
+    padding-top: 60px;
+}
+
+@media (min-width: 576px) and (max-width:786px) { 
+    .div4{
+        padding-left: 30px;
+    }
+ }
