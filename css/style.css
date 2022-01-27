@@ -75,11 +75,11 @@
     display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    animation: fadeIn linear 2s;
-    -webkit-animation: fadeIn linear 2s infinite;
-    -moz-animation: fadeIn linear 2s infinite;
-    -o-animation: fadeIn linear 2s infinite;
-    -ms-animation: fadeIn linear 2s infinite;
+    animation: fadeIn linear 3s;
+    -webkit-animation: fadeIn linear 3s infinite;
+    -moz-animation: fadeIn linear 3s infinite;
+    -o-animation: fadeIn linear 3s infinite;
+    -ms-animation: fadeIn linear 3s infinite;
   }
   
   @keyframes fadeIn {
@@ -110,10 +110,10 @@
 
   /*backgrond-color animation*/
   body {
-    background: #ceeef7;
-    animation: fadebackground 1s infinite;
+    background: #c4eaf5;
+    animation: fadebackground 3s infinite;
   }
   @keyframes fadebackground {
-    from {background-color: #ece0fa;}
+    from {background-color: #c1dfdd;}
     to {background-color: #ecccff;}
   }
