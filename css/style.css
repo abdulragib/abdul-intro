@@ -111,7 +111,7 @@
   /*backgrond-color animation*/
   body {
     background: #ceeef7;
-    animation: fadebackground 3s infinite;
+    animation: fadebackground 1s infinite;
   }
   @keyframes fadebackground {
     from {background-color: #ece0fa;}
