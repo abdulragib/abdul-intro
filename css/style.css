@@ -114,6 +114,6 @@
     animation: fadebackground 3s infinite;
   }
   @keyframes fadebackground {
-    from {background-color: #acd8d6;}
-    to {background-color: #ccdaff;}
+    from {background-color: #e2caf1;}
+    to {background-color: #bee0df;}
   }
