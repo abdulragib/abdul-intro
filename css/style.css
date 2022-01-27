@@ -110,10 +110,10 @@
 
   /*backgrond-color animation*/
   body {
-    background: #e0c4f7;
+    background: #ceeef7;
     animation: fadebackground 6s infinite;
   }
   @keyframes fadebackground {
-    from {background-color: #e9def5;}
+    from {background-color: #ece0fa;}
     to {background-color: #ecccff;}
   }
